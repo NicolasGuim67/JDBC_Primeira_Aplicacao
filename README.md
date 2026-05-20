@@ -61,6 +61,8 @@ Properties
 user=root
 password=my@sqldbroot1
 dburl=jdbc:mysql://localhost:3306/cadastro?useSSL=false&serverTimezone=UTC 
+
+
 🗄️ Estrutura da Tabela no MySQL
 A aplicação foi desenhada para interagir com o esquema de banco de dados cadastro. Antes de rodar o programa, execute o comando SQL abaixo no seu MySQL para criar a tabela necessária:
 
