@@ -1,3 +1,6 @@
+# Configurações locais e credenciais
+db.properties
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
